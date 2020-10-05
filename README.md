@@ -15,4 +15,10 @@ I'm Software engineer at Microsoft. Working on:
   - HTML/CSS/JS
   - Angular
   - Laravel
+  
+## Stats
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=aletsdelarosa&count_private=true&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aletsdelarosa&langs_count=10)
+
+<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aletsdelarosa&repo=aletsdelarosa.github.io) -->
