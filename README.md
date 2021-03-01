@@ -3,7 +3,6 @@
 ## Work
 I'm Software engineer at Microsoft. Working on:
 - [Github Codespaces for Visual Studio](https://github.com/features/codespaces/) - Create and connect to Codespaces from Visual Studio 2019.
-Previously:
 - [Live Share](https://aka.ms/vsls) - Share your code, collaborate on anything, anywhere, anytime.
 
 ## Skills
