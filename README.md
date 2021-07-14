@@ -2,6 +2,9 @@
 
 ## Work
 I'm Software engineer at Microsoft. Working on:
+- [Github Codespaces](https://github.com/features/codespaces/) - Create and connect to Codespaces.
+
+Previously:
 - [Github Codespaces for Visual Studio](https://github.com/features/codespaces/) - Create and connect to Codespaces from Visual Studio 2019.
 - [Live Share](https://aka.ms/vsls) - Share your code, collaborate on anything, anywhere, anytime.
 
@@ -16,6 +19,7 @@ I'm Software engineer at Microsoft. Working on:
   - HTML/CSS/JS
   - Angular
   - Laravel
+  - Node.js
   
 ## Stats
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=aletsdelarosa&count_private=true&show_icons=true)
