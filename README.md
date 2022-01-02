@@ -1,11 +1,11 @@
 # Hi! I'm Alex de la Rosa 👋
 
 ## Work
-I'm Software engineer at Microsoft. Working on:
-- [Github Codespaces](https://github.com/features/codespaces/) - Create and connect to Codespaces.
+I'm Software engineer at GitHub. Working on:
+- [GitHub Codespaces](https://github.com/features/codespaces/) - Create and connect to Codespaces.
 
-Previously:
-- [Github Codespaces for Visual Studio](https://github.com/features/codespaces/) - Create and connect to Codespaces from Visual Studio 2019.
+Previously (Working at Microsoft):
+- [GitHub Codespaces for Visual Studio](https://github.com/features/codespaces/) - Create and connect to Codespaces from Visual Studio 2019.
 - [Live Share](https://aka.ms/vsls) - Share your code, collaborate on anything, anywhere, anytime.
 
 ## Skills
