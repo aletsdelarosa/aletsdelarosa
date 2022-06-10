@@ -2,7 +2,7 @@
 
 ## Work
 I'm Software engineer at GitHub. Working on:
-- [GitHub Codespaces](https://github.com/features/codespaces/) - Create and connect to Codespaces.
+- [GitHub Codespaces](https://github.com/features/codespaces/) - Building @github Codespaces to enable developers everywhere to be more productive.
 
 Previously (Working at Microsoft):
 - [GitHub Codespaces for Visual Studio](https://github.com/features/codespaces/) - Create and connect to Codespaces from Visual Studio 2019.
