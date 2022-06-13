@@ -9,7 +9,7 @@ Previously (Working at Microsoft):
 - [Live Share](https://aka.ms/vsls) - Share your code, collaborate on anything, anywhere, anytime.
 
 ## Skills
-- Swift / iOS development (I worked as iOS developer for almost 3 years).
+- Swift / iOS development (I worked as iOS developer for 3 years).
   - [Kinedu](https://apps.apple.com/us/app/kinedu-baby-development-plan/id741277284). Employee: 2016 - 2019.
   - Planetario Alfa. Freelance.
 - Mobile development
