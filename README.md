@@ -97,8 +97,3 @@ Fluent in:
 Basic knowledge: 
 - French
 - Italian 
-
-## Stats
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=aletsdelarosa&count_private=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aletsdelarosa&langs_count=10)
