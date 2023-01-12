@@ -67,7 +67,7 @@ I'm Experienced in all the steps needed to create a mobile application, from des
 
 ### Conoce a tu diputadx
 
-[Web site :computer:]([https://visualstudio.microsoft.com/services/live-share/](https://encuentra-a-tu-diputadx.web.app/))
+[Web site :computer:](https://encuentra-a-tu-diputadx.web.app/)
 
 This web app built in react lets you search who is your representative based on your district or section in your INE (mexican voters id). It shows their contact information and you can click them to go directly to their social profiles or to send an email.
 											
