@@ -1,6 +1,6 @@
 # Hi! I'm Alex de la Rosa 👋
 											
-I'm a Software Engineer with 6+ years of experience in iOS, mobile and web development, including 3+ years of experience as Software Engineer in Big Tech, 2+ years in a small startup where I was part of a 3 people iOS team where all the responsibilities were divided equally, and 2+ years in my startup where I created and maintain an iOS app, a Flutter app for Android, a web app and the API.
+I'm a Software Engineer with 9+ years of experience in iOS, mobile and web development, including 6+ years of experience as Software Engineer in Big Tech, 2+ years in a small startup where I was part of a 3 people iOS team where all the responsibilities were divided equally, and 2+ years in my startup where I created and maintain an iOS app, a Flutter app for Android, a web app and the API.
 
 I'm Experienced in all the steps needed to create a mobile application, from design to the release in the App Store. :iphone:
 
