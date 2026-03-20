@@ -107,11 +107,11 @@ Passionate about clean code, scalable architecture, and empowering users through
 
 ## Side Projects
 
-| Project                                                                      | Tech              | Description                                                                                                                                                                                                      |
-| ---------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Llevele](https://apps.apple.com/us/app/ll%C3%A9vele/id1507690200)**       | Flutter, Firebase | Pandemic delivery platform for small businesses — 2 apps ([customers](https://apps.apple.com/us/app/ll%C3%A9vele/id1507690200) + [businesses](https://apps.apple.com/us/app/ll%C3%A9vele-negocios/id1506520492)) |
-| **[Logbook](https://play.google.com/store/apps/details?id=com.arc.logbook)** | Flutter           | Contact tracing app during COVID-19 for logging close contacts and activities                                                                                                                                    |
-| **[Conoce a tu diputadx](https://encuentra-a-tu-diputadx.web.app/)**         | React             | Civic tech web app to find Mexican state representatives by district                                                                                                                                             |
+| Project                                                             | Tech              | Description                                                                       |
+| ------------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------------------- |
+| **Llevele**                                                         | Flutter, Firebase | Pandemic delivery platform for small businesses — 2 apps (customers + businesses) |
+| **Logbook**                                                         | Flutter           | Contact tracing app during COVID-19 for logging close contacts and activities     |
+| **[Conoce a tu diputadx](https://encuentra-a-tu-diputadx.web.app)** | React             | Civic tech web app to find Mexican state representatives by district              |
 
 ---
 
@@ -161,6 +161,7 @@ Passionate about clean code, scalable architecture, and empowering users through
 **Tools**<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
@@ -185,6 +186,19 @@ Passionate about clean code, scalable architecture, and empowering users through
 ---
 
 <!-- markdownlint-disable MD013 -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aletsdelarosa&show_icons=true&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=aletsdelarosa&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aletsdelarosa&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="180"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aletsdelarosa&layout=compact&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aletsdelarosa&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletsdelarosa&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180"/>
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
