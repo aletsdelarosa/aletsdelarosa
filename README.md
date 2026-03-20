@@ -31,7 +31,7 @@ Passionate about clean code, scalable architecture, and empowering users through
 
 ## Work Experience
 
-### <img src="https://img.shields.io/badge/eBay-E53238?style=flat&logo=ebay&logoColor=white" alt="eBay"/> &nbsp; MTS II, Software Engineer (iOS)
+### <img src="https://img.shields.io/badge/%20-E53238?style=flat&logo=ebay&logoColor=white" alt="eBay"/> &nbsp; Member of Technical Staff II, Software Engineer (iOS)
 
 **November 2025 – Present** · Remote
 
