@@ -31,7 +31,7 @@ Passionate about clean code, scalable architecture, and empowering users through
 
 ## Work Experience
 
-### <img src="https://img.shields.io/badge/ebay-E53238" alt="ebay"/> &nbsp; Member of Technical Staff II, Software Engineer (iOS)
+### <img src="https://img.shields.io/badge/ebay-E53238?style=flat&logoColor=white" alt="ebay"/> &nbsp; Member of Technical Staff II, Software Engineer (iOS)
 
 **November 2025 – Present** · Remote
 
@@ -81,7 +81,7 @@ Passionate about clean code, scalable architecture, and empowering users through
   shipping autocomplete, go-to-definition, and go-to-implementation
   features to **14M+ monthly active users**
 
-### <img src="https://img.shields.io/badge/Kinedu-6DC8BE?style=flat&logoColor=white" alt="Kinedu"/> &nbsp; Software Engineer, iOS
+### <img src="https://img.shields.io/badge/Kinedu-0086D8?style=flat&logoColor=white" alt="Kinedu"/> &nbsp; Software Engineer, iOS
 
 **September 2016 – July 2019** · Monterrey, Mexico
 
