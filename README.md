@@ -31,7 +31,7 @@ Passionate about clean code, scalable architecture, and empowering users through
 
 ## Work Experience
 
-### <img src="https://img.shields.io/badge/ebay-E53238?style=flat&logoColor=white" alt="ebay"/> &nbsp; Member of Technical Staff II, Software Engineer (iOS)
+### <img src="https://img.shields.io/badge/eBay-E53238?style=flat&logoColor=white" alt="eBay"/> &nbsp; Member of Technical Staff II, Software Engineer (iOS)
 
 **November 2025 – Present** · Remote
 
@@ -71,7 +71,7 @@ Passionate about clean code, scalable architecture, and empowering users through
 - Reduced incident mitigation time by **75%** through monitoring dashboards and automated response tooling
 - Cut resource provisioning time by **90%** via request prioritization and pool optimization
 
-### <img src="https://img.shields.io/badge/Microsoft-FEB800?style=flat&logoColor=white" alt="Microsoft"/> &nbsp; Software Engineer, Live Share
+### <img src="https://img.shields.io/badge/Microsoft-EAAA00?style=flat&logoColor=white" alt="Microsoft"/> &nbsp; Software Engineer, Live Share
 
 **July 2019 – June 2021** · Redmond, WA
 
