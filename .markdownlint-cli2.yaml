@@ -29,6 +29,8 @@ config:
       - "code"
       - "details"
       - "summary"
+      - "picture"
+      - "source"
 
   # --- Duplicate headings ---
   MD024: false

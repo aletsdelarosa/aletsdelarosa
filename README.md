@@ -184,12 +184,20 @@ Passionate about clean code, scalable architecture, and empowering users through
 
 ---
 
+<!-- markdownlint-disable MD013 -->
+
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=aletsdelarosa&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aletsdelarosa&theme=github-dark-blue&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=aletsdelarosa&theme=default&hide_border=true" />
+      <img src="https://streak-stats.demolab.com?user=aletsdelarosa&theme=default&hide_border=true" alt="GitHub Streak"/>
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aletsdelarosa&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
+
+<!-- markdownlint-enable MD013 -->
