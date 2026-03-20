@@ -40,7 +40,7 @@ Passionate about clean code, scalable architecture, and empowering users through
   defining custom Claude Code skills, MCP integrations, and documentation,
   with a roadmap to scale adoption across a 50+ person org
 
-### <img src="https://img.shields.io/badge/Meta-0668E1?style=flat&logo=meta&logoColor=white" alt="Meta"/> &nbsp; Software Engineer, iOS
+### <img src="https://img.shields.io/badge/Meta-0081FB?style=flat&logo=meta&logoColor=white" alt="Meta"/> &nbsp; Software Engineer, iOS
 
 **June 2024 – June 2025** · Bellevue, WA
 
@@ -48,7 +48,7 @@ Passionate about clean code, scalable architecture, and empowering users through
 - Delivered **Feed Deep Dive**, enabling inline Meta AI queries on posts using contextual generative AI suggestions, directly increasing AI feature engagement
 - Led end-to-end development of **Comment Summary**, an AI feature distilling thread sentiment and key ideas using LLMs
 
-### <img src="https://img.shields.io/badge/My_Digital_Moment-FF6B6B?style=flat&logoColor=white" alt="My Digital Moment"/> &nbsp; Founder & Software Engineer
+### <img src="https://img.shields.io/badge/My_Digital_Moment-F7727C?style=flat&logoColor=white" alt="My Digital Moment"/> &nbsp; Founder & Software Engineer
 
 **May 2020 – Present** · Remote
 
@@ -61,7 +61,7 @@ Passionate about clean code, scalable architecture, and empowering users through
   digital wallet passes, and attendee tracking
 - Built the web platform and API using Next.js, React, and JavaScript, deployed on Azure
 
-### <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/> &nbsp; Software Engineer, Codespaces
+### <img src="https://img.shields.io/badge/GitHub-101411?style=flat&logo=github&logoColor=white" alt="GitHub"/> &nbsp; Software Engineer, Codespaces
 
 **June 2021 – January 2023** · Bellevue, WA
 
@@ -71,7 +71,7 @@ Passionate about clean code, scalable architecture, and empowering users through
 - Reduced incident mitigation time by **75%** through monitoring dashboards and automated response tooling
 - Cut resource provisioning time by **90%** via request prioritization and pool optimization
 
-### <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat&logo=microsoft&logoColor=white" alt="Microsoft"/> &nbsp; Software Engineer, Live Share
+### <img src="https://img.shields.io/badge/Microsoft-FEB800?style=flat&logo=microsoft&logoColor=white" alt="Microsoft"/> &nbsp; Software Engineer, Live Share
 
 **July 2019 – June 2021** · Redmond, WA
 
