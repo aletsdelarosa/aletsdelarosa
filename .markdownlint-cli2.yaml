@@ -1,0 +1,46 @@
+ignores:
+  - "node_modules/**"
+
+config:
+  default: true
+
+  # --- Prettier-managed (disabled to avoid conflicts) ---
+  MD009: false # trailing-spaces
+  MD010: false # no-hard-tabs
+  MD047: false # single-trailing-newline
+
+  # --- Line length ---
+  MD013:
+    line_length: 150
+    code_blocks: false
+    tables: false
+    headings: false
+
+  # --- Inline HTML ---
+  MD033:
+    allowed_elements:
+      - "p"
+      - "a"
+      - "img"
+      - "br"
+      - "hr"
+      - "strong"
+      - "em"
+      - "code"
+      - "details"
+      - "summary"
+
+  # --- Duplicate headings ---
+  MD024: false
+
+  # --- Bare URLs ---
+  MD034: true
+
+  # --- First line heading ---
+  MD041: true
+
+  # --- Emphasis style (Prettier alignment) ---
+  MD049:
+    style: "asterisk"
+  MD050:
+    style: "asterisk"
