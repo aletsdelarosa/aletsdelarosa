@@ -1,1 +1,6 @@
 pnpm exec lint-staged
+
+# Secret scanning (install gitleaks: https://github.com/gitleaks/gitleaks)
+if command -v gitleaks &> /dev/null; then
+  gitleaks git --pre-commit --staged --verbose
+fi

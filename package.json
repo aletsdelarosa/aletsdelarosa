@@ -1,24 +1,25 @@
 {
   "name": "aletsdelarosa",
   "private": true,
+  "type": "module",
   "version": "1.0.0",
+  "packageManager": "pnpm@10.28.0",
+  "engines": {
+    "node": ">=25"
+  },
   "description": "Personal GitHub profile",
   "scripts": {
     "format": "prettier --write \"**/*.md\"",
     "format:check": "prettier --check \"**/*.md\"",
-    "lint": "markdownlint-cli2 \"**/*.md\"",
-    "lint:fix": "markdownlint-cli2 --fix \"**/*.md\"",
-    "fix": "pnpm run format && pnpm run lint:fix",
-    "check": "pnpm run format:check && pnpm run lint",
+    "lint:md": "markdownlint-cli2 \"**/*.md\"",
+    "lint:md:fix": "markdownlint-cli2 --fix \"**/*.md\"",
+    "fix": "pnpm run format && pnpm run lint:md:fix",
+    "check": "pnpm run format:check && pnpm run lint:md",
     "prepare": "husky"
   },
-  "lint-staged": {
-    "*.md": [
-      "prettier --write",
-      "markdownlint-cli2"
-    ]
-  },
   "devDependencies": {
+    "@commitlint/cli": "^20.5.0",
+    "@commitlint/config-conventional": "^20.5.0",
     "husky": "^9.1.7",
     "lint-staged": "^16.4.0",
     "markdownlint-cli2": "^0.21.0",

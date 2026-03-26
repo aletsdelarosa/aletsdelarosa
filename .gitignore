@@ -71,5 +71,21 @@ Temporary Items
 
 # Dependencies
 node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Misc
+*.log
 
 CLAUDE.md
+
+tasks/

@@ -1,0 +1,8 @@
+title = "Gitleaks Configuration"
+
+[allowlist]
+description = "Allow test fixtures, examples, and documentation"
+paths = [
+  '''\.env\.example''',
+  '''docs/''',
+]

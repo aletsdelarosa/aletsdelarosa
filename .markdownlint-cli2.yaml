@@ -1,5 +1,5 @@
 ignores:
-  - "node_modules/**"
+  - 'node_modules/**'
 
 config:
   default: true
@@ -11,7 +11,7 @@ config:
 
   # --- Line length ---
   MD013:
-    line_length: 150
+    line_length: 120
     code_blocks: false
     tables: false
     headings: false
@@ -19,18 +19,18 @@ config:
   # --- Inline HTML ---
   MD033:
     allowed_elements:
-      - "p"
-      - "a"
-      - "img"
-      - "br"
-      - "hr"
-      - "strong"
-      - "em"
-      - "code"
-      - "details"
-      - "summary"
-      - "picture"
-      - "source"
+      - 'p'
+      - 'a'
+      - 'img'
+      - 'br'
+      - 'hr'
+      - 'strong'
+      - 'em'
+      - 'code'
+      - 'details'
+      - 'summary'
+      - 'picture'
+      - 'source'
 
   # --- Duplicate headings ---
   MD024: false
@@ -43,6 +43,9 @@ config:
 
   # --- Emphasis style (Prettier alignment) ---
   MD049:
-    style: "asterisk"
+    style: 'asterisk'
   MD050:
-    style: "asterisk"
+    style: 'asterisk'
+
+  # --- Table column style (conflicts with Prettier table formatting) ---
+  MD060: false
