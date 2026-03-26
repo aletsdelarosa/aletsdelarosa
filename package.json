@@ -17,6 +17,12 @@
     "check": "pnpm run format:check && pnpm run lint:md",
     "prepare": "husky"
   },
+  "pnpm": {
+    "overrides": {
+      "picomatch": "4.0.4",
+      "yaml": "2.8.3"
+    }
+  },
   "devDependencies": {
     "@commitlint/cli": "^20.5.0",
     "@commitlint/config-conventional": "^20.5.0",
