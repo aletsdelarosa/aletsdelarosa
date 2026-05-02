@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "version": "1.0.0",
-  "packageManager": "pnpm@10.28.0",
+  "packageManager": "pnpm@10.33.2",
   "engines": {
     "node": ">=25"
   },
@@ -20,15 +20,15 @@
   "pnpm": {
     "overrides": {
       "picomatch": "4.0.4",
-      "yaml": "2.8.3"
+      "yaml": "2.8.4"
     }
   },
   "devDependencies": {
-    "@commitlint/cli": "^20.5.0",
-    "@commitlint/config-conventional": "^20.5.0",
+    "@commitlint/cli": "^20.5.3",
+    "@commitlint/config-conventional": "^20.5.3",
     "husky": "^9.1.7",
     "lint-staged": "^16.4.0",
-    "markdownlint-cli2": "^0.21.0",
-    "prettier": "^3.8.1"
+    "markdownlint-cli2": "^0.22.1",
+    "prettier": "^3.8.3"
   }
 }
