@@ -11,6 +11,8 @@ skills, and certifications.
   Next.js, Angular, Laravel), and backend (C#, Node.js).
 - Current role at eBay. Previous roles include Meta, GitHub (Codespaces), and Microsoft (Live Share).
 - Currently runs a startup called My Digital Moment (wedding invites platform).
+- Pursuing an M.S. in Artificial Intelligence at UT Austin (2026 – 2028).
+- `resume.pdf` is the source of truth for titles, dates, and metrics -- keep the README consistent with it.
 - Fluent in English and Spanish.
 
 ### Tech Stack
@@ -43,16 +45,17 @@ aletsdelarosa/
 #### README Section Order
 
 1. Title + typing SVG animation (HTML)
-2. Contact badges row (LinkedIn, Email, Blog, Resume -- HTML)
+2. Contact badges row (LinkedIn, Email, Website, Resume -- HTML)
 3. About Me (paragraph)
-4. Work Experience (reverse-chronological entries)
-5. Side Projects (table)
-6. Education (emoji + bold entries)
-7. Tech Stack (badge images grouped by category)
-8. Certifications & Awards (emoji + bold entries)
-9. Languages
-10. GitHub stats widgets (HTML, dark/light aware)
-11. Profile views counter (HTML)
+4. Currently (3-4 emoji bullets: current role, studies, startup, what's being built in public)
+5. Work Experience (reverse-chronological entries)
+6. Side Projects (table)
+7. Education (emoji + bold entries)
+8. Tech Stack (badge images grouped by category, iOS first)
+9. Certifications & Awards (emoji + bold entries)
+10. Languages
+11. GitHub streak widget (HTML, dark/light aware)
+12. Profile views counter (HTML)
 
 #### Work Experience Entry Format
 
@@ -145,8 +148,9 @@ theme:
 </picture>
 ```
 
-The `<picture>` and `<source>` elements are in the markdownlint HTML allowlist. Currently used for the GitHub stats
-widgets.
+The `<picture>` and `<source>` elements are in the markdownlint HTML allowlist. Currently used for the GitHub streak
+widget. The public `github-readme-stats.vercel.app` instance was removed (deployment paused, rendered broken images);
+only re-add stats cards from a self-hosted instance.
 
 #### Editing Guidelines
 
